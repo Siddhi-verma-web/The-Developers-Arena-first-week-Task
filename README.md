@@ -22,18 +22,30 @@ This is a personal portfolio website developed using HTML5. The website showcase
 
 * HTML5
 
+
 ## Folder Structure
 
 Portfolio/
-│
+
 ├── index.html
+
 ├── README.md
+
 ├── siddhi image.jpeg
-├── siddhi_verma_resume.pdf
-│
-└── images/
+
+├── siddhi_verma_resume_.pdf.pdf
+
 ├── studysync dashboard.png
-└── AI themed landing page 2.png
+
+├── AI themed landing page 2.png
+
+└── visual documentation/
+    ├── homepage.png
+    ├── about-skills.png
+    ├── projects.png
+    ├── certifications.png
+    └── contact.png
+
 
 ## HTML Concepts Learned
 
@@ -78,7 +90,46 @@ A JavaScript-based password strength checker that provides real-time feedback an
 * Tested contact form validation.
 * Confirmed resume download functionality.
 * Validated overall HTML structure.
+  
+## Visual Documentation
 
+### Homepage
+Screenshot of portfolio homepage showing navigation menu and profile section.
+
+### About, Education and Skills
+Screenshot showing personal information, education and skills.
+
+### Projects Section
+Screenshot displaying portfolio projects and project links.
+
+### Certifications and Experience
+Screenshot showing certifications and internship experience.
+
+### Contact Section
+Screenshot showing contact form and social media links.
+
+### Code Structure
+Screenshot of project files and HTML code in VS Code.
+
+## Testing Evidence
+
+### Test Case 1: Navigation Links
+Result: Passed ✅
+
+### Test Case 2: Resume Download
+Result: Passed ✅
+
+### Test Case 3: Project Links
+Result: Passed ✅
+
+### Test Case 4: Contact Form Validation
+Result: Passed ✅
+
+### Test Case 5: Images Loading
+Result: Passed ✅
+
+### Test Case 6: GitHub and LinkedIn Links
+Result: Passed ✅
 ## Author
 
 Siddhi Verma
